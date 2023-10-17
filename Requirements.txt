@@ -1,0 +1,28 @@
+colour paletter:-
+1.primary color:-
+>>ab051b--Madder
+>>6b4e71--English Violet 
+>>7ec91c--Yellow Green  
+>>53687e--Paynes Gray 
+>>f5dddd--Misty Rose
+
+2.primary color:-
+>>38655e--Caribben Current
+>>b3994a--Satin Sheen Gold 
+>>1e5d87--Lapis Lazuli
+>>6e4646-- Rose ebony
+>>a77a9b--Mountbatten Pink
+
+3.primary color:-
+>>f00a0a--Off Red 
+>>0cf300--Green 
+>>bd17cc--Steel Pink 
+>>17c6c6--Robin Egg Blue 
+>>9a1818--Carmine
+
+4.primary color:-
+>>2f3b2e--Black Olive
+>>86b33d--Apple Green 
+>>a94e78--China Rose
+>>4f2f7f--Tekhelet
+>>b8684b--Brown Sugar
